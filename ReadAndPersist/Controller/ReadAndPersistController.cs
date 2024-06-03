@@ -41,7 +41,5 @@ namespace Controller
         {
             return _service.Update(radar);
         }
-    }   
-    {
-    }
+    } 
 }

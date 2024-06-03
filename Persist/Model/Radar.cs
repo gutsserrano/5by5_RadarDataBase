@@ -29,7 +29,7 @@ namespace Model
         public string Uf { get; set; }
 
         [JsonProperty("km_m")]
-        public float Km { get; set; }
+        public string Km { get; set; }
 
         [JsonProperty("municipio")]
         public string Municipio { get; set; }
